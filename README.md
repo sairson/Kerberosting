@@ -13,4 +13,4 @@ Frail-Spns
 Inject-Ticket kadmin/changepw
 ```
 
-![image-20210421212008760](kerberos\images\image-20210421212008760.png)
+！[image-20210421212008760]（https://github.com/CobaltZirs0n/Kerberosting/blob/main/kerberos/images/image-20210421212008760.png）
