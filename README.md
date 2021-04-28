@@ -12,7 +12,7 @@ Frail-Spns
 # 请求服务票据TGS
 Inject-Ticket kadmin/changepw
 ```
-[image][https://github.com/CobaltZirs0n/Kerberosting/blob/main/kerberos/images/image-20210421212008760.png]
+![image-20210427144927582](https://github.com/CobaltZirs0n/RunExploit/blob/main/images/image-20210427144927582.png)
 
 
 
