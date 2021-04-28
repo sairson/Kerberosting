@@ -11,8 +11,8 @@ Import-Module .\kerberos.ps1
 Frail-Spns
 # 请求服务票据TGS
 Inject-Ticket kadmin/changepw
-
 ```
+[image][https://github.com/CobaltZirs0n/Kerberosting/blob/main/kerberos/images/image-20210421212008760.png]
 
 
 
